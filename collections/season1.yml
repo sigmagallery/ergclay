@@ -1109,10 +1109,3 @@ nfts:
   description: ClayBob PFP Collection Season 1
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeid2ra72xudtcjbv2lgp2s7k7vev377n4cuxipzge6xwq5a2q7i4fi
-- tokenId: b0d676ffa8cf101b0d1f837776939a2b93bb87dab9c49ca71781c6e57377ab83
-  name: ClayBob S1
-  description: >-
-    ClayBob Season 1 is a generated Collection of 999 digital characters made
-    from unique clay traits (+/-50) entirely handmade with plasticine and
-    polymer clay. Each is a 1-of-a kind NFT, stored on the Ergo blockchain,
-    Project by ErgClay, Artwork by KGclays 
