@@ -1,5 +1,5 @@
 collections:
-- label: Season 1
-  data: season1.yml
-- label: Season 1 Stars
-  data: season1-stars.yml
+- label: ClayBob S1
+  data: claybobs1.yml
+- label: ClayBob S1
+  data: claybobs1stars.yml
