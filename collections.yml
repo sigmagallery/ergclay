@@ -1,5 +1,7 @@
 collections:
 - label: ClayBob S1
   data: claybobs1.yml
+  image: https://ipfs.io/ipfs/bafybeibh37os27l5x2ads5z2plk7f3jqncbdkhqecfqggewr3bnp2yx2yi
 - label: ClayBob S1
   data: claybobs1stars.yml
+  image: https://gateway.ipfs.io/ipfs/bafybeifkj5pgl2sx7f2dsviiggu4liyi3lok3uvpkjxt3wmiakezosnwbe
